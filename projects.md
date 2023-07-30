@@ -1,7 +1,7 @@
 ![Tech Quests Card](projects.jpg)
 <a name="readme-top"></a>
 
-**Getting Started - Joining a Project**
+# Getting Started - Joining a Project
 
 1. **Choose a Project Repository**: Browse through the list of available project repositories and select the one you wish to work on. Each repository will have a unique identifier or link associated with it.
 
