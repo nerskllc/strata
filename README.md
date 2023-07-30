@@ -56,7 +56,9 @@ With this vision and mission at our core, we strive to build a community of pass
 
 &nbsp;
 
-![Github img](github.png)
+<p align="center">
+    <img src="github.jpg" alt="Alt Text">
+</p>
 
 🚀 To make the most out of this opportunity, we encourage you to learn GitHub, a powerful platform that fosters seamless collaboration and empowers software developers worldwide. 
 
