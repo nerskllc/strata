@@ -50,6 +50,7 @@ Our mission is to foster a global ecosystem of open-source software development 
 
 With this vision and mission at our core, we strive to build a community of passionate developers who channel their expertise and creativity into projects that make a difference in the world. Together, we can shape a future where technology is a force for positive change and social good.
 
+
 ## Software Projects
 
 🚀 Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities in the world of open-source software projects? 🌟 Join our GitHub community, where talented minds converge, and new horizons are explored. 🌈
