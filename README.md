@@ -49,3 +49,50 @@ Our mission is to foster a global ecosystem of open-source software development 
 4. **Global Impact:** Our focus extends beyond borders. We actively seek collaborations with developers and communities worldwide to create solutions that have a positive impact on diverse societies.
 
 With this vision and mission at our core, we strive to build a community of passionate developers who channel their expertise and creativity into projects that make a difference in the world. Together, we can shape a future where technology is a force for positive change and social good.
+
+## Software Projects
+
+🚀 Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities in the world of open-source software projects? 🌟 Join our GitHub community, where talented minds converge, and new horizons are explored. 🌈
+
+👉 [Click here to explore our open-source projects](projects.md)
+
+**Unleash Your Potential:**
+🧠 Our projects are designed to push the boundaries of your imagination. Whether you're a seasoned coder or a budding enthusiast, there's a place for you in our community. 💡 Embrace the challenge, collaborate with brilliant minds, and contribute to meaningful projects.
+
+👥 **A Community of Innovators:**
+🤝 At Tech Quests, we celebrate diversity and inclusion. 👫🌍 Our vibrant community spans the globe, connecting developers, designers, and dreamers. Together, we form a collective force driving positive change through technology. Join us to be a part of this inspiring journey.
+
+Let the adventure begin! 🎉
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+**Read-Only GitHub Project: No Edits or Usage Allowed**
+
+**Project Description:**
+Welcome to our read-only GitHub project! This repository is designed to provide valuable information, code samples, or resources for reference purposes only. While we appreciate your interest in our work, we kindly request that you refrain from making any edits or using the contents in live projects.
+
+**Why Not Editable or Usable?**
+There are specific reasons for making this project read-only. It might contain sensitive information, intellectual property, or serve as an archive of historical data that should not be altered. By keeping it read-only, we ensure the preservation of its integrity and originality.
+
+**License and Usage:**
+In this case, a license does not apply in the traditional sense, as usage and editing are explicitly prohibited. Instead, the project is shared with the community for educational or informational purposes only. It falls under a "no-license" or "all rights reserved" status, meaning that no permissions are granted to use, modify, or distribute the content.
+
+**Contributions:**
+As the project is read-only, contributions, pull requests, and issues will not be accepted. We value your enthusiasm and encourage you to explore other open-source projects where your contributions are welcome.
+
+Thank you for respecting the read-only status of this GitHub project. If you have any questions or need further assistance, feel free to reach out to our team. Happy coding! 🚀🔧
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Frederick on twitter - [handle @realfrederick](https://twitter.com/real_frederick)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
