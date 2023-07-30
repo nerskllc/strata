@@ -12,13 +12,16 @@
 
 <h1>The Genus Software Organization</h1>
 
-**Vision:** 
-Our vision is to become the go-to place for open-source software development, a thriving community where innovation, collaboration, and social impact intersect. We aim to empower developers worldwide with the tools, resources, and support they need to create impactful software projects for the betterment of humanity.
+Today open source is being developed in almost every industry from fintech to eccommerce to edtech to cyber security, further indicating
+that it is really a robust time to get involved in involved in the open source community. 
 
-**Mission:** 
+## The Vision: 
+Our vision is to become the go-to place for open-source software education and projects, forming a thriving community where innovation, collaboration, and social impact intersect is at the core. We aim to empower developers worldwide with the tools, resources, and support they need to create impactful software projects for the betterment of humanity.
+
+## Mission:
 Our mission is to foster a global ecosystem of open-source software development that leverages the collective intelligence and creativity of developers. We strive to provide a platform where socially motivated projects can flourish, addressing critical challenges faced by communities and driving positive change across the globe.
 
-**Core Values:**
+## Core Values:
 
 1. **Openness and Inclusivity:** We embrace an open and inclusive culture that encourages diversity of thought and welcomes contributions from developers of all backgrounds and skill levels.
 
