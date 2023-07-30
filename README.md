@@ -1,4 +1,7 @@
-![Tech Quests Card](large.png)
+<p align="center">
+    <img src="genus.jpg" alt="Alt Text">
+</p>
+
 <a name="readme-top"></a>
 
 &nbsp;
