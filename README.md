@@ -102,7 +102,7 @@ Don't miss out on the incredible opportunities that GitHub can unlock for you! I
 
 🚀 Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities in the world of open-source software projects? 🌟 Join our GitHub community, where talented minds converge, and new horizons are explored. 🌈
 
-👉 [Click here to explore our open-source projects](projects.md)
+👉 [Click here to explore our open-source projects](contributors.md)
 
 **Unleash Your Potential:**
 🧠 Our projects are designed to push the boundaries of your imagination. Whether you're a seasoned coder or a budding enthusiast, there's a place for you in our community. 💡 Embrace the challenge, collaborate with brilliant minds, and contribute to meaningful projects.
