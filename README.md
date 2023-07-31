@@ -15,7 +15,7 @@
 
 # Join Our Thriving Community on Social Platforms!
 
-Welcome to Genus SO, an open-source software platform built by passionate developers like you! We invite you to become a part of our growing community by joining us on our social media channels. Stay up-to-date with the latest developments, contribute to the project, and engage with like-minded individuals. Here's where you can find us:
+Welcome to Genus SO, an ecosystem for young people, trying to make available an array of tools and resources to manage and elevate your career trajectory. Whether you're an aspiring coder, a seasoned programmer, or a tech enthusiast, this platform is tailored to meet your needs. Here's where you can find us:
 
 ## GitHub Repository
 
@@ -98,7 +98,7 @@ Don't miss out on the incredible opportunities that GitHub can unlock for you! I
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Software Projects
+## Open Source 
 
 🚀 Ready to embark on an exhilarating journey of innovation, creativity, and boundless opportunities in the world of open-source software projects? 🌟 Join our GitHub community, where talented minds converge, and new horizons are explored. 🌈
 
