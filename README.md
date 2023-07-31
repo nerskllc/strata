@@ -21,7 +21,7 @@ Welcome to Genus SO, an open-source software platform built by passionate develo
 
 Our heart and soul reside on GitHub! Explore the codebase, report issues, and submit your pull requests to improve [OpenSourcePlatform]. We value your contributions, no matter how big or small. Head over to our repository and hit that **Star** button to show your support!
 
-GitHub Repository: [Genus Software Github](https://t.co/Hi8Vhdjxfg)
+GitHub Repository: [Genus Software Github](github.com/genus-so)
 
 ## Twitter
 
