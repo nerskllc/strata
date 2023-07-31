@@ -14,7 +14,7 @@ Get inspired and discover the possibilities! Choose a category below and start h
    Tech Stack: JavaScript, D3.js, HTML, CSS<br>
    Repository: [github.com/GenusSoftware/DataVisTool](https://github.com/GenusSoftware/DataVisTool)
 
-3. **Project Name: Government Portal or Website**<br>
+3. **Project Name: Government Portal**<br>
    Description: SecureLogin is a user authentication and authorization system that emphasizes security. It provides secure login and registration functionalities for web applications.
    Tech Stack: Python, Django, PostgreSQL<br>
    Repository: [github.com/GenusSoftware/SecureLogin](https://github.com/GenusSoftware/SecureLogin)
@@ -34,8 +34,8 @@ Get inspired and discover the possibilities! Choose a category below and start h
    Tech Stack: Flutter, Firebase<br>
    Repository: [github.com/GenusSoftware/HealthTrackApp](https://github.com/GenusSoftware/HealthTrackApp)
 
-7. **Project Name: OpenEduResources**<br>
-   Description: OpenEduResources is a platform for educators to share open educational resources, including lecture slides, lesson plans, and course materials.
+7. **Project Name: Computer-assisted education**<br>
+   Description: Computer and software help in assisting or training students.
    Tech Stack: PHP, Laravel, MySQL<br>
    Repository: [github.com/GenusSoftware/OpenEduResources](https://github.com/GenusSoftware/OpenEduResources)
 
