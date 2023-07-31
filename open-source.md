@@ -1,9 +1,12 @@
 ![Tech Quests Card](projects.jpg)
 <a name="readme-top"></a>
 
-# Process flow for Contributors 🚀
+# The evolution of Open Source Software 🚀
 
-We're excited that you want to contribute to the open-source projects hosted on the Genus Software Platform. This README will guide you through the process of getting started as a contributor.
+Today open source is being developed in almost every industry from fintech to eccommerce to edtech to cyber security, further indicating
+that it is really a robust time to get involved in involved in the open source community.
+
+We're excited that you want to contribute to the open-source projects hosted on the Genus Software Platform. This documentaion will guide you through the process of getting started as a contributor.
 
 ### How to Contribute 🤝
 
