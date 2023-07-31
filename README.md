@@ -13,42 +13,56 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
-<h1>The Genus Software Organization</h1>
+# Join Our Thriving Community on Social Platforms!
 
-Today open source is being developed in almost every industry from fintech to eccommerce to edtech to cyber security, further indicating
-that it is really a robust time to get involved in involved in the open source community. 
+Welcome to Genus SO, an open-source software platform built by passionate developers like you! We invite you to become a part of our growing community by joining us on our social media channels. Stay up-to-date with the latest developments, contribute to the project, and engage with like-minded individuals. Here's where you can find us:
 
-## The Vision: 
-Our vision is to become the go-to place for open-source software education and projects, forming a thriving community where innovation, collaboration, and social impact intersect is at the core. We aim to empower developers worldwide with the tools, resources, and support they need to create impactful software projects for the betterment of humanity.
+## GitHub Repository
 
-## Mission:
-Our mission is to foster a global ecosystem of open-source software development that leverages the collective intelligence and creativity of developers. We strive to provide a platform where socially motivated projects can flourish, addressing critical challenges faced by communities and driving positive change across the globe.
+Our heart and soul reside on GitHub! Explore the codebase, report issues, and submit your pull requests to improve [OpenSourcePlatform]. We value your contributions, no matter how big or small. Head over to our repository and hit that **Star** button to show your support!
 
-## Core Values:
+GitHub Repository: [Genus Software Github](https://t.co/Hi8Vhdjxfg)
 
-1. **Openness and Inclusivity:** We embrace an open and inclusive culture that encourages diversity of thought and welcomes contributions from developers of all backgrounds and skill levels.
+## Twitter
 
-2. **Collaboration and Community:** We believe that collaborative efforts drive innovation. We foster a supportive and welcoming community where developers can connect, learn, and grow together.
+Follow us on Twitter for quick updates, project announcements, and interesting discussions. Get a glimpse behind the scenes and connect with fellow developers. Don't forget to mention us (@OpenSourcePlatform) in your tweets – we love hearing from our community!
 
-3. **Social Impact and Purpose:** We are committed to creating software projects that address real-world challenges and have a meaningful impact on society. Our projects are driven by a deep sense of purpose and responsibility.
+Twitter: [Genus Software Organization](https://twitter.com/genus_softorg)
 
-4. **Transparency and Accountability:** We prioritize transparency in our decision-making and operations. We hold ourselves accountable to our community and stakeholders, ensuring that our actions align with our mission.
+## Instagram
 
-5. **Continuous Learning and Growth:** We encourage a culture of continuous learning and personal growth. We believe that learning is essential to stay at the forefront of technology and to create innovative solutions.
+Join us on Instagram to explore the visual side of [OpenSourcePlatform]. Follow our account for captivating images, inspiring quotes, and behind-the-scenes glimpses of our development journey. Tap that ❤️ to show your support and be a part of our vibrant community!
 
-6. **Empowerment and Support:** We empower developers to explore their potential and support them in their open-source contributions. We provide resources, mentorship, and a nurturing environment to help them succeed.
+Instagram: [Genus SO Instagram](https://www.instagram.com/genus_softorg)
 
-**Focus Areas:**
+## LinkedIn
 
-1. **Open-Source Development Hub:** We aim to be a comprehensive hub for open-source software development, providing a range of projects, tools, and resources to support developers in their endeavors.
+For professional networking and thought-provoking articles, join our LinkedIn community. Connect with other developers, exchange ideas, and be part of engaging conversations. Remember to follow our LinkedIn page to receive the latest updates!
 
-2. **Socially Motivated Projects:** We prioritize socially motivated projects that tackle pressing global challenges, such as sustainability, healthcare, education, and social equity.
+LinkedIn
 
-3. **Educational Initiatives:** We actively engage in educational initiatives, offering workshops, tutorials, and learning materials to empower individuals with the skills and knowledge needed to contribute to open-source projects.
+## Discord
 
-4. **Global Impact:** Our focus extends beyond borders. We actively seek collaborations with developers and communities worldwide to create solutions that have a positive impact on diverse societies.
+Looking for real-time chat and collaboration? Join us on Discord! Our Discord server is a hub for discussions, support, and feedback. Whether you're seeking help or just want to chat with friendly developers, this is the place to be!
 
-With this vision and mission at our core, we strive to build a community of passionate developers who channel their expertise and creativity into projects that make a difference in the world. Together, we can shape a future where technology is a force for positive change and social good.
+Discord Invite Link
+
+## YouTube
+
+Subscribe to our YouTube channel for tutorials, demos, and project showcases. Watch our developers in action, and gain insights into the latest features of Genus SO. Don't forget to hit that notification bell, so you never miss a video!
+
+YouTube Channel
+
+## Spread the Word!
+
+Help us grow our community by sharing Genus SO with your friends and colleagues. Together, we can make this platform even more amazing and impactful. Use the hashtag #OpenSourcePlatform to share your experiences and spread the word about our project!
+
+Thank you for being a part of Genus SO. We look forward to connecting with you on our social platforms and witnessing your contributions to the project!
+
+Happy coding!
+
+The Genus SO Team
+
 
 <!-- GETTING STARTED WITH GITHUB-->
 
@@ -57,7 +71,7 @@ With this vision and mission at our core, we strive to build a community of pass
 &nbsp;
 
 <p align="center">
-    <img src="github.jpg" alt="Alt Text">
+    <img src="github.png" alt="Alt Text">
 </p>
 
 🚀 To make the most out of this opportunity, we encourage you to learn GitHub, a powerful platform that fosters seamless collaboration and empowers software developers worldwide. 
