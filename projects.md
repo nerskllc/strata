@@ -7,7 +7,7 @@ Get inspired and discover the possibilities! Choose a category below and start h
 1. **Project Name: Checkpoint App**<br>
    Description: Mobile Attendance System Project.
    Tech Stack: React.js, Node.js, Socket.io<br>
-   Repository: [github.com/GenusSoftware/AwesomeChat](https://github.com/GenusSoftware/AwesomeChat)
+   Repository: [github.com/genus-so/Checkpoint-App](https://github.com/genus-so/Checkpoint-App)
 
 2. **Project Name: DataVisTool**<br>
    Description: DataVisTool is a data visualization library that enables developers to create interactive charts and graphs with ease. It's designed for web applications and supports various chart types.
