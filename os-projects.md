@@ -5,7 +5,7 @@ Explore exciting project ideas from various categories and join a project to bri
 Get inspired and discover the possibilities! Choose a category below and start hacking:
 
 1. **Project Name: Checkpoint App**<br>
-   Description: Mobile Attendance System Project.
+   Description: Contactless Attendance System Using QR Codes.
    Tech Stack: React.js, Node.js, Socket.io<br>
    Repository: [github.com/genus-so/Checkpoint-App](https://github.com/genus-so/Checkpoint-App)
 
@@ -19,7 +19,7 @@ Get inspired and discover the possibilities! Choose a category below and start h
    Tech Stack: Python, Django, PostgreSQL<br>
    Repository: [github.com/GenusSoftware/SecureLogin](https://github.com/GenusSoftware/SecureLogin)
 
-4. **Project Name: Citizen Relationship Management (CRM) System**<br>
+4. **Project Name: AI-Enhanced Cybersecurity Platform**<br>
    Description: SmartHomeAutomation is an open-source project that allows users to control their smart home devices through a centralized web interface. It supports integration with various IoT devices.
    Tech Stack: Angular, Node.js, MQTT<br>
    Repository: [github.com/GenusSoftware/SmartHomeAutomation](https://github.com/GenusSoftware/SmartHomeAutomation)
@@ -44,12 +44,12 @@ Get inspired and discover the possibilities! Choose a category below and start h
    Tech Stack: React Native, Node.js, MongoDB<br>
    Repository: [github.com/GenusSoftware/EcoWarrior](https://github.com/GenusSoftware/EcoWarrior)
 
-9. **Project Name: TaskMaster**<br>
+9. **Project Name: AI-Powered Medical Diagnosis**<br>
    Description: TaskMaster is a task management application that helps teams organize and track their projects efficiently. It supports task assignment, progress tracking, and deadline management.
    Tech Stack: Vue.js, Flask, SQLite<br>
    Repository: [github.com/GenusSoftware/TaskMaster](https://github.com/GenusSoftware/TaskMaster)
 
-10. **Project Name: SmartCitySensors**<br>
+10. **Project Name: Blockchain-Based E-Voting for Corporate Governance**<br>
     Description: SmartCitySensors is a network of IoT sensors deployed in a city to collect data on air quality, temperature, and traffic flow. The data is made available through APIs for public use.
     Tech Stack: Arduino, Raspberry Pi, Node.js<br>
     Repository: [github.com/GenusSoftware/SmartCitySensors](https://github.com/GenusSoftware/SmartCitySensors)
