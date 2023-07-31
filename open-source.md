@@ -13,7 +13,7 @@ We're excited that you want to contribute to the open-source projects hosted on 
 2. **Explore Available Projects:** 🔍<br>
    Take some time to explore the projects available on our platform. Read their descriptions, check out the source code, and understand their goals.
 
-[Explore the Projects Catalog here → ](projects.md)
+[Explore the Projects Catalog here → ](os-projects.md)
 
 4. **Fork the Repository:** 🍴<br>
    Fork the project's repository to your GitHub account. This will create a copy of the project under your account.
