@@ -4,8 +4,8 @@ Explore exciting project ideas from various categories and join a project to bri
 
 Get inspired and discover the possibilities! Choose a category below and start hacking:
 
-1. **Project Name: Checkpoint App**<br>
-   Description: Contactless Attendance System Using QR Codes.
+1. **Project Name: Trash Sorter Game**<br>
+   Description: Recycling center workers who need to sort different types of waste into the correct recycling bins.
    Tech Stack: React.js, Node.js, Socket.io<br>
    Repository: [github.com/genus-so/Checkpoint-App](https://github.com/genus-so/Checkpoint-App)
 
@@ -19,8 +19,8 @@ Get inspired and discover the possibilities! Choose a category below and start h
    Tech Stack: Python, Django, PostgreSQL<br>
    Repository: [github.com/GenusSoftware/SecureLogin](https://github.com/GenusSoftware/SecureLogin)
 
-4. **Project Name: AI-Enhanced Cybersecurity Platform**<br>
-   Description: SmartHomeAutomation is an open-source project that allows users to control their smart home devices through a centralized web interface. It supports integration with various IoT devices.
+4. **Project Name: Checkpoint App**<br>
+   Description: Contactless Attendance System Using QR Codes.
    Tech Stack: Angular, Node.js, MQTT<br>
    Repository: [github.com/GenusSoftware/SmartHomeAutomation](https://github.com/GenusSoftware/SmartHomeAutomation)
 
