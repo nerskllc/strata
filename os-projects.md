@@ -22,7 +22,7 @@ Get inspired and discover the possibilities! Choose a category below and start h
 4. **Project Name: Checkpoint App**<br>
    Description: Contactless Attendance System Using QR Codes.
    Tech Stack: Angular, Node.js, MQTT<br>
-   Repository: [github.com/GenusSoftware/SmartHomeAutomation](https://github.com/GenusSoftware/SmartHomeAutomation)
+   Repository: [Checkpoint App Repo](https://github.com/genus-so/Checkpoint-App)
 
 5. **Project Name: Agricultural Productivity Platform**<br>
    Description: CodeSnippetsHub is a collaborative platform for developers to share and discover useful code snippets across different programming languages and frameworks.
